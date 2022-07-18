@@ -1,2 +1,3 @@
 # Grip_Tasks
-These are some of tasks I done during the Grip internship 
+Here is the all tasks that i done during The Sparks Foundation Internship in JULY 22
+
